@@ -169,7 +169,7 @@ body {
 }
 .placeholder-1, .placeholder-2 {
     width: 15px;
-    height: 150px;
+    height: 100px;
     position: relative;
     bottom: -650px;
     background-color: steelblue;
@@ -228,9 +228,4 @@ p {
     text-align: center;
 }
 
-audio {
-    display: flex;
-    position: absolute;
-    z-index: -1;
-}
 
