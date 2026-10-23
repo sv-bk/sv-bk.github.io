@@ -157,7 +157,7 @@ body {
     width: 450px;
     height: 20px;
     position: relative;
-    bottom: -652px;
+    bottom: -510px;
     border-radius: 5px;
     background-color: #ff5349;
 }
@@ -171,7 +171,7 @@ body {
     width: 15px;
     height: 100px;
     position: relative;
-    bottom: -650px;
+    bottom: -510px;
     background-color: steelblue;
 }
 
@@ -227,5 +227,4 @@ p {
     font-family: Arial, sans-serif;
     text-align: center;
 }
-
 
